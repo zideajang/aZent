@@ -1,4 +1,4 @@
-# 🚀 aZent(标准版)
+# 🚀 aZent(Beta版)
 
 ## aZent 是个啥
 轻量级多 Agent 协作的 AI Agent 框架(标准版)
